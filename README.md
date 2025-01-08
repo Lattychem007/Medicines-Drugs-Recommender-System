@@ -1,5 +1,5 @@
 # Medicines Drugs Recommender System
-This project is a Medicine Recommender System designed to assist users in identifying appropriate medicines based on symptoms. The model leverages EDA analysis to provide accurate and user-friendly recommendations.
+This project is a Medicine Recommender System designed to assist users in identifying appropriate medicines based on symptoms,Medicines name and compositions. The model leverages EDA analysis to provide accurate and user-friendly recommendations.
 
 # Overview
 The primary goal of this project is to recommend medicines for common symptoms using a dataset of diseases and their associated treatments. By analyzing input symptoms, the system can suggest suitable medications, making it useful for healthcare applications, pharmacies, and individuals.
