@@ -1,4 +1,4 @@
-# Medicines Drugs Recommender System
+# Medicines/Drugs Recommender System
 This project is a Medicine Recommender System designed to assist users in identifying appropriate medicines based on symptoms,Medicines name and compositions. The model leverages EDA analysis to provide accurate and user-friendly recommendations.
 
 # Overview
