@@ -5,9 +5,10 @@ This project is a Medicine Recommender System designed to assist users in identi
 The primary goal of this project is to recommend medicines for common symptoms using a dataset of diseases and their associated treatments. By analyzing input symptoms, the system can suggest suitable medications, making it useful for healthcare applications, pharmacies, and individuals.
 
 # Features
-Medicine Name Input: Accepts a set of Medicines Names
-Medicine Composition Input: Accepts a set of APIs Compositions
-Symptom Input: Accepts a set of symptoms from the user.
+-Medicine Name Input: Accepts a set of Medicines Names
+-Medicine Composition Input: Accepts a set of APIs Compositions
+-Symptom Input: Accepts a set of symptoms from the user.
+
 Medicine Recommendation: Provides a list of recommended medicines based on the symptoms provided.
 Machine Learning Integration: Utilizes supervised learning techniques to map symptoms to medicines.
 User-Friendly Output: Delivers understandable results suitable for non-experts.
