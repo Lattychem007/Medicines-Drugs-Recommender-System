@@ -9,10 +9,10 @@ The primary goal of this project is to recommend medicines for common symptoms u
 - Medicine Composition Input: Accepts a set of APIs Compositions
 - Symptom Input: Accepts a set of symptoms from the user.
 
-Medicine Recommendation: Provides a list of recommended medicines based on the symptoms provided.
+# Medicine Recommendation: Provides a list of recommended medicines based on the symptoms provided.
 Machine Learning Integration: Utilizes supervised learning techniques to map symptoms to medicines.
 User-Friendly Output: Delivers understandable results suitable for non-experts.
-Dataset
+# Dataset
 The project uses a dataset containing diseases, symptoms, and corresponding medicines. The dataset is pre-processed to ensure high accuracy and relevance in recommendations.
 
 # Installation
@@ -27,10 +27,10 @@ Copy code
 pip install -r requirements.txt  
 Run the notebook or script:
 Open the Jupyter Notebook medicine-recommender-system.ipynb or execute the Python script in your preferred environment.
-How to Use
+# How to Use
 Input your symptoms in the provided interface (notebook/script).
 The system will analyze the symptoms and output a list of possible medicines.
-Use the recommendations responsibly; consult a medical professional before taking any medications.
+# Use the recommendations responsibly; consult a medical professional before taking any medications.
 Tools and Technologies
 Python
 Pandas
