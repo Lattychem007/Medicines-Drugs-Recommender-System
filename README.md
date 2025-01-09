@@ -31,7 +31,8 @@ Open the Jupyter Notebook medicine-recommender-system.ipynb or execute the Pytho
 # How to Use
 Input your symptoms in the provided interface (notebook/script).
 The system will analyze the symptoms and output a list of possible medicines.
-# Use the recommendations responsibly; consult a medical professional before taking any medications.
+# Use the recommendations responsibly;
+consult a medical professional before taking any medications.
 Tools and Technologies
 Python
 Pandas
