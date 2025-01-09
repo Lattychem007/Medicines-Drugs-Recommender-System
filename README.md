@@ -9,7 +9,8 @@ The primary goal of this project is to recommend medicines for common symptoms u
 - Medicine Composition Input: Accepts a set of APIs Compositions
 - Symptom Input: Accepts a set of symptoms from the user.
 
-# Medicine Recommendation: Provides a list of recommended medicines based on the symptoms provided.
+# Medicine Recommendation:
+Provides a list of recommended medicines based on the symptoms provided.
 Machine Learning Integration: Utilizes supervised learning techniques to map symptoms to medicines.
 User-Friendly Output: Delivers understandable results suitable for non-experts.
 # Dataset
